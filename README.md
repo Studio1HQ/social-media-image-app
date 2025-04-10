@@ -18,11 +18,11 @@ Pixel-Palace is a social media image sharing platform. It built using the latest
 
 ### 1. Clone the repository
 ```
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Studio1HQ/social-media-image-app
 ```
 ### 2. Navigate into the project
 ```
-cd <YOUR_PROJECT_NAME>
+cd social-media-image-app
 ```
 
 ### 3. Install dependencies
