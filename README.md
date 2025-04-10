@@ -1,6 +1,6 @@
 # Introduction
 
-Pixel-Palace is a social media image sharing platform. It built using the latest AI tools, including Webcrumbs and Lovable, to generate a fully functional web application with a modern tech stack. The app allows users to upload images, like, comment on posts, follow other users, and more.
+Pixel-Palace is a social media image sharing platform. It built using the latest AI tools, including [Webcrumbs Frontend AI](https://www.webcrumbs.ai/) and [Lovable](https://lovable.dev/), to generate a fully functional web application with a modern tech stack. The app allows users to upload images, like, comment on posts, follow other users, and more.
 
 ## Live Demo
 
